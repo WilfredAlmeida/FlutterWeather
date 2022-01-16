@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "390178323358",
+    "project_id": "flutter-chat-b9c10",
+    "storage_bucket": "flutter-chat-b9c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390178323358:android:daf2d69bbe12d424b3348f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390178323358-d7m6d37tj2hacpt6njielr65nq4rkk8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78dEQVaAdyANWDhsdf-Cisv2GkHiCkFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390178323358-d7m6d37tj2hacpt6njielr65nq4rkk8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390178323358:android:bff6f948a7e1bf4fb3348f",
+        "android_client_info": {
+          "package_name": "com.example.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390178323358-79siura01i25osmnr1baupv42ub8is2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interview",
+            "certificate_hash": "f5065cda71d9cb54af891fa75d970cade29ee14f"
+          }
+        },
+        {
+          "client_id": "390178323358-d7m6d37tj2hacpt6njielr65nq4rkk8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78dEQVaAdyANWDhsdf-Cisv2GkHiCkFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390178323358-d7m6d37tj2hacpt6njielr65nq4rkk8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
